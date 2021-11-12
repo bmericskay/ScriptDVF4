@@ -3,12 +3,10 @@ title: "Script 3"
 author: "Boris Mericskay et Florent Demoraes"
 date: "12/11/2021"
 output: html_document
----
+
 
 ---
-
 LES DONNÉES DVF À UNE ÉCHELLE LOCALE : LES EXEMPLES DE LA MÉTROPOLE RÉGIONALE ET DE LA COMMUNE DE RENNES
-
 ---
 
 Ce script présente toutes les étapes de manipulation de la dimension spatiale des données DVF et propose plusieurs formes de représentation cartographique de ces données à une échelle métropolitaine (Rennes Métropole).
